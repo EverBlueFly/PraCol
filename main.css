@@ -28,7 +28,7 @@ html, body {
   padding-top: 10px; }
 
 .topArea .guideLine {
-  height: 70%;
+  height: 100%;
   display: inline-block;
   text-align: right;
   top: 10px;
