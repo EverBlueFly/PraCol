@@ -25,7 +25,8 @@ html, body {
   font-color: #f24;
   font-size: 25px;
   padding-left: 10px;
-  padding-top: 10px; }
+  padding-top: 10px;
+  overflow: hidden;}
 
 .guideLine {
   position: absolute;
