@@ -28,12 +28,12 @@ html, body {
   padding-top: 10px; }
 
 .guideLine {
+  position: absolute;
   height: 100%;
   display: inline-block;
   text-align: right;
-  top: 0px;
-  width: 79%;
-  left: 0.5%; }
+  right: 0px;
+  width: 79%; }
 
 .btn {
   display: inline-block;
