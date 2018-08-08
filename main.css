@@ -2,9 +2,9 @@
 * {
   border: solid 1px;
   font-family: 微軟正黑體;
-  font-size: 0px;
   box-sizing: border-box;
-  letter-spacing: 1px; }
+  letter-spacing: 1px;
+  position: relative; }
 
 html, body {
   height: 100%;
@@ -13,6 +13,7 @@ html, body {
   padding: 0px; }
 
 .topArea {
+  font-size: 0px;
   width: 100%;
   height: 100px;
   background-color: rgba(0, 0, 0, 0.5); }
@@ -36,7 +37,7 @@ html, body {
 
 .btn {
   display: inline-block;
-  bottom: 0px;
+  top: 30px;
   font-size: 30px;
   color: white;
   border-bottom: solid 2px rgba(0, 0, 0, 0.3);
