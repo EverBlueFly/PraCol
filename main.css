@@ -4,8 +4,7 @@
   font-family: 微軟正黑體;
   font-size: 0px;
   box-sizing: border-box;
-  letter-spacing: 1px;
-  position: relative; }
+  letter-spacing: 1px; }
 
 html, body {
   height: 100%;
@@ -27,15 +26,15 @@ html, body {
   padding-left: 10px;
   padding-top: 10px; }
 
-.topArea .guideLine {
+.guideLine {
   height: 100%;
   display: inline-block;
   text-align: right;
-  top: 10px;
+  top: 0px;
   width: 79%;
   left: 0.5%; }
 
-.topArea .guideLine .btn {
+.btn {
   display: inline-block;
   bottom: 0px;
   font-size: 30px;
